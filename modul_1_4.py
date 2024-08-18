@@ -1,10 +1,7 @@
-from pydoc import replace
-
-name = "my_string"
-print(input(name))
-print(len(name))
-print("my_string" .upper())
-print("my_string" .upper().lower())
-print("my_string" .replace("_", ""))
-print("my_string"[0])
-print("my_string" [-1])
+my_string = input("где вы учитесь? ")
+print(len(my_string))
+print(my_string .upper())
+print(my_string .lower())
+print(my_string .replace(" ", ""))
+print(my_string [0])
+print(my_string [-1])
