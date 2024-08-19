@@ -3,7 +3,7 @@ print(my_dict)
 print(my_dict.get("Mustafa"))
 print(my_dict.get("Mama"))
 my_dict.update({"Brat" : 9099993378 , "Lena" : 9225784430})
-del my_dict["Dima"]
+my_dict .pop("Dima")
 print(my_dict)
 my_set = {55, 10, 44, 22, 10, 22, 44, 22, 23}
 print(my_set)
