@@ -14,13 +14,3 @@ dict_some[sort_students[2]] = avg3
 dict_some[sort_students[4]] = avg4
 dict_some[sort_students[3]] = avg5
 print(dict_some)
-
-
-#print(grades)
-
-#dict_some = {}
-#avg1 = sum(grades[20] / len(grades[1]))
-#print(sum())
-
-#grades = tuple(grades)
-#print(grades)
